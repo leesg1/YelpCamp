@@ -9,3 +9,7 @@
 .thumbnail .camption-full{
     padding: 9px;
 }
+
+.delete-form{
+    display: inline;
+}

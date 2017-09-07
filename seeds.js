@@ -25,7 +25,7 @@ function seedDB(){
         } else{
             console.log("Removed Campgrounds");
         }
-        
+/*        
         // add some campgrounds
         data.forEach(function(seed){
         Campground.create(seed, function(err,data){
@@ -51,8 +51,8 @@ function seedDB(){
             }
         })
     })
-    })
-    
+   */ })
+   
    
 }
 
